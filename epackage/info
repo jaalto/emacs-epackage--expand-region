@@ -1,0 +1,22 @@
+Package: expand-region
+Section: extensions
+License: GPL-3+
+Depends: emacs (>= 23)
+Status: stable
+Archive:
+Maintainer: Jari Aalto <jari.aalto@cante.net>
+Bugs:
+Upstream: Magnar Sveen <magnars@gmail.com>
+Upstream-Bugs: https://github.com/magnars/expand-region.el/issues
+Vcs-Type: git
+Vcs-Url: https://github.com/magnars/expand-region.el.git
+Vcs-Browser: https://github.com/magnars/expand-region.el
+Homepage: https://github.com/magnars/expand-region.el
+Wiki: http://www.emacswiki.org/emacs/
+Commentary: expand-region.el
+Info:
+Description: increase selected region by semantic units
+ Expand region increases the selected region by semantic units. Just keep
+ pressing the key until it selects what you want.
+ .
+ See video http://emacsrocks.com/e09.html
