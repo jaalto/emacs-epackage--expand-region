@@ -12,7 +12,7 @@ Vcs-Type: git
 Vcs-Url: https://github.com/magnars/expand-region.el.git
 Vcs-Browser: https://github.com/magnars/expand-region.el
 Homepage: https://github.com/magnars/expand-region.el
-Wiki: http://www.emacswiki.org/emacs/
+Wiki: http://www.emacswiki.org/emacs/CategoryRegion
 Commentary: expand-region.el
 Info:
 Description: increase selected region by semantic units
